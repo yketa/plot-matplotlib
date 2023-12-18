@@ -1,4 +1,4 @@
 # plot-matplotlib
 ### Yann-Edwin Keta
 
-Objects and functions to be used in matplotlib plots. Addiitonal colormaps are available with `seaborn` (optionnal).
+Objects and functions to be used in matplotlib plots. Additional colourmaps are available with `seaborn` (optionnal).
